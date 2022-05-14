@@ -1,4 +1,4 @@
-*** SYSC3110 Milestone 4 Monopoly Project README ***
+# Monopoly
 
 Project Authors: Connor Marcus, Noah Hammoud, George Pantazopoulos and Vahid Foroughi.
 Note about the deliverables: The source code was worked on in pairs over Discord, which is why the Github repository says only two of the authors made contributions. Thus, commits from Noah contains work done by both Noah and Vahid, and commits from Connor contains work done by both Connor and George.
