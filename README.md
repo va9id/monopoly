@@ -18,5 +18,5 @@ java -jar Monopoly.java
 Prerequisite: Java is already installed on your system
 
 More details about how to play the game can be found in the user manual. 
-The Monopoly game can be customized with custom property names and currency. International customization options of the game can be imported with the JSON files dounds at: http://github.com/vahido9/Monopoly/tree/main/out/production/SYSC3110Project/customization
+The Monopoly game can be customized with custom property names and currency. International customization options of the game can be imported with the JSON files found [here](http://github.com/vahido9/Monopoly/tree/main/out/production/SYSC3110Project/customization)
 
